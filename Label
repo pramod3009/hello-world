@@ -1,0 +1,17 @@
+from import tkinter as tk 
+
+root = Tk()
+label_Make1 = Label(root,text="Label")
+label_make1.pack()
+
+
+
+
+
+
+
+
+
+root.title("Label")
+root.geometry("700x500")
+root.mainloop()
